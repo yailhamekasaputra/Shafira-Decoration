@@ -396,7 +396,7 @@ header.active {
     height: 120vh; /* Membuat gambar sedikit lebih tinggi dari layar penuh */
     border-radius: 0; /* Pastikan tidak ada border-radius */
     position: relative; /* Menjaga posisi elemen */
-    top: -3vh; /* Menurunkan elemen sedikit agar gambar terfokus ke bawah */
+    top: 4vh; /* Menurunkan elemen sedikit agar gambar terfokus ke bawah */
   }
 }
 /* Slide Loader Styling */
